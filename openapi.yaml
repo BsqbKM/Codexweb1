@@ -1,0 +1,234 @@
+openapi: 3.0.3
+info:
+  title: WineLens API
+  version: "0.1.0"
+  description: |
+    WineLens provides wine label recognition, hybrid retrieval, and quality scoring services.
+servers:
+  - url: http://localhost:8000
+paths:
+  /api/v1/healthz:
+    get:
+      summary: Health check
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+  /api/v1/infer:
+    post:
+      summary: Run inference on a wine label
+      parameters:
+        - in: query
+          name: store_image
+          schema:
+            type: boolean
+          required: false
+          description: Persist the uploaded image for future fine-tuning when true.
+      requestBody:
+        required: true
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                image:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: Inference result
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/InferenceResponse'
+        '415':
+          description: Unsupported media type
+  /api/v1/wines/{id}:
+    get:
+      summary: Retrieve wine metadata
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Wine metadata
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Wine'
+        '404':
+          description: Wine not found
+  /api/v1/feedback:
+    post:
+      summary: Submit feedback for an inference result
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/FeedbackRequest'
+      responses:
+        '200':
+          description: Feedback stored
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+components:
+  schemas:
+    Candidate:
+      type: object
+      properties:
+        wine_id:
+          type: integer
+        name:
+          type: string
+        producer:
+          type: string
+          nullable: true
+        vintage:
+          type: integer
+          nullable: true
+        match_score:
+          type: number
+          format: float
+    Explanation:
+      type: object
+      properties:
+        ocr_tokens:
+          type: array
+          items:
+            type: object
+            properties:
+              text:
+                type: string
+              weight:
+                type: number
+        image_neighbors:
+          type: array
+          items:
+            type: object
+            properties:
+              wine_id:
+                type: integer
+              sim:
+                type: number
+        features:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+              gain:
+                type: number
+    InferenceFinal:
+      type: object
+      properties:
+        wine_id:
+          type: integer
+          nullable: true
+        pred_quality:
+          type: number
+        conf_interval:
+          type: array
+          minItems: 2
+          maxItems: 2
+          items:
+            type: number
+        explain:
+          $ref: '#/components/schemas/Explanation'
+    InferenceResponse:
+      type: object
+      properties:
+        candidates:
+          type: array
+          items:
+            $ref: '#/components/schemas/Candidate'
+        final:
+          $ref: '#/components/schemas/InferenceFinal'
+        debug:
+          type: object
+          properties:
+            model_versions:
+              type: object
+              additionalProperties:
+                type: string
+            latency_ms:
+              type: integer
+    Wine:
+      type: object
+      properties:
+        id:
+          type: integer
+        canonical_name:
+          type: string
+        producer:
+          type: string
+          nullable: true
+        label_text_norm:
+          type: string
+          nullable: true
+        country:
+          type: string
+          nullable: true
+        region:
+          type: string
+          nullable: true
+        subregion:
+          type: string
+          nullable: true
+        appellation:
+          type: string
+          nullable: true
+        grapes:
+          type: array
+          items:
+            type: string
+          nullable: true
+        vintage:
+          type: integer
+          nullable: true
+        style:
+          type: string
+        quality_score:
+          type: number
+          nullable: true
+        sources:
+          type: object
+          additionalProperties:
+            type: string
+          nullable: true
+        image_url:
+          type: string
+          nullable: true
+    FeedbackRequest:
+      type: object
+      properties:
+        upload_id:
+          type: string
+          nullable: true
+        chosen_wine_id:
+          type: integer
+          nullable: true
+        correct:
+          type: boolean
+        notes:
+          type: string
+          nullable: true
+      required:
+        - correct

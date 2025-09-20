@@ -1,0 +1,34 @@
+version: "3.9"
+services:
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_DB: winelens
+      POSTGRES_USER: winelens
+      POSTGRES_PASSWORD: winelens
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+  backend:
+    build: .
+    environment:
+      WINELENS_DATABASE_URL: postgresql+psycopg2://winelens:winelens@db:5432/winelens
+      WINELENS_SYNC_DATABASE_URL: postgresql+psycopg2://winelens:winelens@db:5432/winelens
+      WINELENS_ALLOWED_ORIGINS: http://localhost:5173
+    depends_on:
+      - db
+    ports:
+      - "8000:8000"
+  frontend:
+    working_dir: /app/frontend
+    image: node:20-slim
+    command: npm run dev -- --host 0.0.0.0
+    volumes:
+      - ./frontend:/app/frontend
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_URL: http://localhost:8000
+volumes:
+  pgdata:

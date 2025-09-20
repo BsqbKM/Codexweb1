@@ -1,0 +1,1596 @@
+[
+  {
+    "canonical_name": "Tenuta Aurora Bordeaux Selection 01",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora bordeaux medoc 2002",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Tempranillo"
+    ],
+    "vintage": 2002,
+    "style": "rose",
+    "quality_score": 92.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Chateau Lumiere Marlborough Selection 02",
+    "producer": "Chateau Lumiere",
+    "label_text_norm": "chateau lumiere marlborough wairau 2000",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Sangiovese"
+    ],
+    "vintage": 2000,
+    "style": "sparkling",
+    "quality_score": 82.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Marlborough Selection 03",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina marlborough wairau 2011",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Tempranillo",
+      "Malbec",
+      "Riesling"
+    ],
+    "vintage": 2011,
+    "style": "red",
+    "quality_score": 82.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Douro Selection 04",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair douro cima corgo 2011",
+    "country": "Portugal",
+    "region": "Douro",
+    "subregion": "Cima Corgo",
+    "appellation": "DOC",
+    "grapes": [
+      "Carmenere"
+    ],
+    "vintage": 2011,
+    "style": "red",
+    "quality_score": 84.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Rioja Selection 05",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti rioja alta 2010",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Cabernet Sauvignon"
+    ],
+    "vintage": 2010,
+    "style": "rose",
+    "quality_score": 79.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Mendoza Selection 06",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina mendoza uco valley 2012",
+    "country": "Argentina",
+    "region": "Mendoza",
+    "subregion": "Uco Valley",
+    "appellation": "IG",
+    "grapes": [
+      "Carmenere"
+    ],
+    "vintage": 2012,
+    "style": "rose",
+    "quality_score": 88.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Chateau Lumiere Casablanca Selection 07",
+    "producer": "Chateau Lumiere",
+    "label_text_norm": "chateau lumiere casablanca valle central 2004",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Syrah",
+      "Pinot Noir",
+      "Carmenere"
+    ],
+    "vintage": 2004,
+    "style": "rose",
+    "quality_score": 91.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Tuscany Selection 08",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti tuscany chianti 2001",
+    "country": "Italy",
+    "region": "Tuscany",
+    "subregion": "Chianti",
+    "appellation": "DOCG",
+    "grapes": [
+      "Tempranillo"
+    ],
+    "vintage": 2001,
+    "style": "rose",
+    "quality_score": 85.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Weingut Morgen Barossa Selection 09",
+    "producer": "Weingut Morgen",
+    "label_text_norm": "weingut morgen barossa eden valley 2019",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Pinot Noir",
+      "Tempranillo"
+    ],
+    "vintage": 2019,
+    "style": "white",
+    "quality_score": 83.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Bordeaux Selection 10",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina bordeaux medoc 2012",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Carmenere",
+      "Tempranillo",
+      "Merlot"
+    ],
+    "vintage": 2012,
+    "style": "white",
+    "quality_score": 85.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Marlborough Selection 11",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti marlborough wairau 1999",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Tempranillo"
+    ],
+    "vintage": 1999,
+    "style": "rose",
+    "quality_score": 93.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Casablanca Selection 12",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair casablanca valle central 2020",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Syrah"
+    ],
+    "vintage": 2020,
+    "style": "red",
+    "quality_score": 84.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Barossa Selection 13",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde barossa eden valley 2002",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Nebbiolo"
+    ],
+    "vintage": 2002,
+    "style": "sparkling",
+    "quality_score": 82.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Maison Or Marlborough Selection 14",
+    "producer": "Maison Or",
+    "label_text_norm": "maison or marlborough wairau 2010",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Syrah",
+      "Chardonnay",
+      "Carmenere"
+    ],
+    "vintage": 2010,
+    "style": "rose",
+    "quality_score": 84.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Maison Or Rioja Selection 15",
+    "producer": "Maison Or",
+    "label_text_norm": "maison or rioja alta 2001",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Sangiovese"
+    ],
+    "vintage": 2001,
+    "style": "sparkling",
+    "quality_score": 80.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Rioja Selection 16",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde rioja alta 2012",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Chardonnay",
+      "Syrah"
+    ],
+    "vintage": 2012,
+    "style": "red",
+    "quality_score": 88.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora Marlborough Selection 17",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora marlborough wairau 2001",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Riesling",
+      "Nebbiolo",
+      "Pinot Noir"
+    ],
+    "vintage": 2001,
+    "style": "red",
+    "quality_score": 83.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Kellerei Blau Rioja Selection 18",
+    "producer": "Kellerei Blau",
+    "label_text_norm": "kellerei blau rioja alta 2022",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Carmenere",
+      "Nebbiolo",
+      "Riesling"
+    ],
+    "vintage": 2022,
+    "style": "red",
+    "quality_score": 81.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Bordeaux Selection 19",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair bordeaux medoc 2022",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Pinot Noir"
+    ],
+    "vintage": 2022,
+    "style": "white",
+    "quality_score": 81.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora Marlborough Selection 20",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora marlborough wairau 2009",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Sangiovese",
+      "Cabernet Sauvignon"
+    ],
+    "vintage": 2009,
+    "style": "rose",
+    "quality_score": 94.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Mosel Selection 21",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti mosel bernkastel 2000",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Syrah"
+    ],
+    "vintage": 2000,
+    "style": "red",
+    "quality_score": 79.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Chateau Lumiere Barossa Selection 22",
+    "producer": "Chateau Lumiere",
+    "label_text_norm": "chateau lumiere barossa eden valley 2013",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Malbec"
+    ],
+    "vintage": 2013,
+    "style": "white",
+    "quality_score": 96.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Rioja Selection 23",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair rioja alta 2022",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Riesling"
+    ],
+    "vintage": 2022,
+    "style": "sparkling",
+    "quality_score": 91.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair California Selection 24",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair california napa valley 2014",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Malbec",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2014,
+    "style": "sparkling",
+    "quality_score": 86.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti California Selection 25",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti california napa valley 2015",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Sangiovese",
+      "Syrah"
+    ],
+    "vintage": 2015,
+    "style": "red",
+    "quality_score": 82.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora California Selection 26",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora california napa valley 2000",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Malbec",
+      "Sangiovese",
+      "Tempranillo"
+    ],
+    "vintage": 2000,
+    "style": "red",
+    "quality_score": 95.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Chateau Lumiere Mendoza Selection 27",
+    "producer": "Chateau Lumiere",
+    "label_text_norm": "chateau lumiere mendoza uco valley 2004",
+    "country": "Argentina",
+    "region": "Mendoza",
+    "subregion": "Uco Valley",
+    "appellation": "IG",
+    "grapes": [
+      "Malbec",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2004,
+    "style": "white",
+    "quality_score": 88.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Douro Selection 28",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina douro cima corgo 2011",
+    "country": "Portugal",
+    "region": "Douro",
+    "subregion": "Cima Corgo",
+    "appellation": "DOC",
+    "grapes": [
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2011,
+    "style": "sparkling",
+    "quality_score": 81.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Bordeaux Selection 29",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde bordeaux medoc 2021",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Chardonnay",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2021,
+    "style": "rose",
+    "quality_score": 79.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora Bordeaux Selection 30",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora bordeaux medoc 2004",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Pinot Noir",
+      "Cabernet Sauvignon",
+      "Tempranillo"
+    ],
+    "vintage": 2004,
+    "style": "sparkling",
+    "quality_score": 81.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Barossa Selection 31",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol barossa eden valley 2012",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Nebbiolo"
+    ],
+    "vintage": 2012,
+    "style": "sparkling",
+    "quality_score": 82.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Kellerei Blau Bordeaux Selection 32",
+    "producer": "Kellerei Blau",
+    "label_text_norm": "kellerei blau bordeaux medoc 2015",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Malbec"
+    ],
+    "vintage": 2015,
+    "style": "red",
+    "quality_score": 93.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Bordeaux Selection 33",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti bordeaux medoc 2004",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Sauvignon Blanc",
+      "Carmenere"
+    ],
+    "vintage": 2004,
+    "style": "white",
+    "quality_score": 94.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Tuscany Selection 34",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol tuscany chianti 2006",
+    "country": "Italy",
+    "region": "Tuscany",
+    "subregion": "Chianti",
+    "appellation": "DOCG",
+    "grapes": [
+      "Chardonnay"
+    ],
+    "vintage": 2006,
+    "style": "sparkling",
+    "quality_score": 95.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Barossa Selection 35",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair barossa eden valley 2002",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Carmenere",
+      "Riesling",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2002,
+    "style": "sparkling",
+    "quality_score": 81.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora California Selection 36",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora california napa valley 2016",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Pinot Noir",
+      "Sangiovese",
+      "Malbec"
+    ],
+    "vintage": 2016,
+    "style": "red",
+    "quality_score": 87.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Marlborough Selection 37",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol marlborough wairau 2017",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Carmenere"
+    ],
+    "vintage": 2017,
+    "style": "red",
+    "quality_score": 79.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde California Selection 38",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde california napa valley 1999",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Tempranillo",
+      "Syrah",
+      "Malbec"
+    ],
+    "vintage": 1999,
+    "style": "red",
+    "quality_score": 89.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Casablanca Selection 39",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina casablanca valle central 2020",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Tempranillo",
+      "Malbec"
+    ],
+    "vintage": 2020,
+    "style": "rose",
+    "quality_score": 84.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Mosel Selection 40",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde mosel bernkastel 2008",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Malbec",
+      "Nebbiolo",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2008,
+    "style": "white",
+    "quality_score": 95.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora Bordeaux Selection 41",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora bordeaux medoc 2015",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Syrah",
+      "Cabernet Sauvignon",
+      "Malbec"
+    ],
+    "vintage": 2015,
+    "style": "sparkling",
+    "quality_score": 82.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Mosel Selection 42",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol mosel bernkastel 2009",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Tempranillo"
+    ],
+    "vintage": 2009,
+    "style": "rose",
+    "quality_score": 83.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Maison Or Barossa Selection 43",
+    "producer": "Maison Or",
+    "label_text_norm": "maison or barossa eden valley 2019",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Malbec",
+      "Riesling",
+      "Sangiovese"
+    ],
+    "vintage": 2019,
+    "style": "rose",
+    "quality_score": 93.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Chateau Lumiere Mosel Selection 44",
+    "producer": "Chateau Lumiere",
+    "label_text_norm": "chateau lumiere mosel bernkastel 2021",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Cabernet Sauvignon",
+      "Carmenere"
+    ],
+    "vintage": 2021,
+    "style": "white",
+    "quality_score": 88.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Mosel Selection 45",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair mosel bernkastel 2014",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Pinot Noir",
+      "Tempranillo",
+      "Nebbiolo"
+    ],
+    "vintage": 2014,
+    "style": "white",
+    "quality_score": 87.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Chateau Lumiere Tuscany Selection 46",
+    "producer": "Chateau Lumiere",
+    "label_text_norm": "chateau lumiere tuscany chianti 2008",
+    "country": "Italy",
+    "region": "Tuscany",
+    "subregion": "Chianti",
+    "appellation": "DOCG",
+    "grapes": [
+      "Sangiovese",
+      "Carmenere"
+    ],
+    "vintage": 2008,
+    "style": "sparkling",
+    "quality_score": 92.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Mosel Selection 47",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol mosel bernkastel 1998",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Carmenere",
+      "Chardonnay",
+      "Riesling"
+    ],
+    "vintage": 1998,
+    "style": "sparkling",
+    "quality_score": 80.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Maison Or Rioja Selection 48",
+    "producer": "Maison Or",
+    "label_text_norm": "maison or rioja alta 2002",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Syrah",
+      "Riesling"
+    ],
+    "vintage": 2002,
+    "style": "red",
+    "quality_score": 86.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Tuscany Selection 49",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair tuscany chianti 2004",
+    "country": "Italy",
+    "region": "Tuscany",
+    "subregion": "Chianti",
+    "appellation": "DOCG",
+    "grapes": [
+      "Pinot Noir"
+    ],
+    "vintage": 2004,
+    "style": "rose",
+    "quality_score": 91.0,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Weingut Morgen Bordeaux Selection 50",
+    "producer": "Weingut Morgen",
+    "label_text_norm": "weingut morgen bordeaux medoc 2003",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Carmenere",
+      "Merlot",
+      "Tempranillo"
+    ],
+    "vintage": 2003,
+    "style": "sparkling",
+    "quality_score": 96.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Rioja Selection 51",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde rioja alta 2008",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Carmenere"
+    ],
+    "vintage": 2008,
+    "style": "red",
+    "quality_score": 92.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Casablanca Selection 52",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti casablanca valle central 2001",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Carmenere"
+    ],
+    "vintage": 2001,
+    "style": "rose",
+    "quality_score": 85.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Kellerei Blau Tuscany Selection 53",
+    "producer": "Kellerei Blau",
+    "label_text_norm": "kellerei blau tuscany chianti 2009",
+    "country": "Italy",
+    "region": "Tuscany",
+    "subregion": "Chianti",
+    "appellation": "DOCG",
+    "grapes": [
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2009,
+    "style": "white",
+    "quality_score": 83.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti California Selection 54",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti california napa valley 2006",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Tempranillo",
+      "Chardonnay",
+      "Pinot Noir"
+    ],
+    "vintage": 2006,
+    "style": "red",
+    "quality_score": 94.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Weingut Morgen Mosel Selection 55",
+    "producer": "Weingut Morgen",
+    "label_text_norm": "weingut morgen mosel bernkastel 2001",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Riesling",
+      "Pinot Noir",
+      "Sangiovese"
+    ],
+    "vintage": 2001,
+    "style": "sparkling",
+    "quality_score": 94.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Mosel Selection 56",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol mosel bernkastel 2017",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Cabernet Sauvignon"
+    ],
+    "vintage": 2017,
+    "style": "rose",
+    "quality_score": 86.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Mendoza Selection 57",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde mendoza uco valley 2006",
+    "country": "Argentina",
+    "region": "Mendoza",
+    "subregion": "Uco Valley",
+    "appellation": "IG",
+    "grapes": [
+      "Syrah",
+      "Tempranillo"
+    ],
+    "vintage": 2006,
+    "style": "red",
+    "quality_score": 78.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora Casablanca Selection 58",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora casablanca valle central 2019",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Chardonnay",
+      "Cabernet Sauvignon"
+    ],
+    "vintage": 2019,
+    "style": "white",
+    "quality_score": 95.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Weingut Morgen Douro Selection 59",
+    "producer": "Weingut Morgen",
+    "label_text_norm": "weingut morgen douro cima corgo 2019",
+    "country": "Portugal",
+    "region": "Douro",
+    "subregion": "Cima Corgo",
+    "appellation": "DOC",
+    "grapes": [
+      "Nebbiolo",
+      "Riesling",
+      "Carmenere"
+    ],
+    "vintage": 2019,
+    "style": "red",
+    "quality_score": 85.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair Casablanca Selection 60",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair casablanca valle central 2019",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Chardonnay"
+    ],
+    "vintage": 2019,
+    "style": "white",
+    "quality_score": 95.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Rioja Selection 61",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina rioja alta 2007",
+    "country": "Spain",
+    "region": "Rioja",
+    "subregion": "Alta",
+    "appellation": "DOCa",
+    "grapes": [
+      "Riesling",
+      "Sangiovese"
+    ],
+    "vintage": 2007,
+    "style": "rose",
+    "quality_score": 83.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Casablanca Selection 62",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina casablanca valle central 2019",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Sauvignon Blanc",
+      "Carmenere"
+    ],
+    "vintage": 2019,
+    "style": "rose",
+    "quality_score": 82.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Barossa Selection 63",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol barossa eden valley 2018",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Riesling",
+      "Malbec"
+    ],
+    "vintage": 2018,
+    "style": "red",
+    "quality_score": 89.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Bordeaux Selection 64",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti bordeaux medoc 2002",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Tempranillo"
+    ],
+    "vintage": 2002,
+    "style": "rose",
+    "quality_score": 78.5,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Kellerei Blau California Selection 65",
+    "producer": "Kellerei Blau",
+    "label_text_norm": "kellerei blau california napa valley 2016",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Chardonnay",
+      "Malbec"
+    ],
+    "vintage": 2016,
+    "style": "red",
+    "quality_score": 81.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Kellerei Blau Casablanca Selection 66",
+    "producer": "Kellerei Blau",
+    "label_text_norm": "kellerei blau casablanca valle central 2018",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Merlot"
+    ],
+    "vintage": 2018,
+    "style": "sparkling",
+    "quality_score": 91.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Bordeaux Selection 67",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde bordeaux medoc 2014",
+    "country": "France",
+    "region": "Bordeaux",
+    "subregion": "Medoc",
+    "appellation": "AOC",
+    "grapes": [
+      "Carmenere"
+    ],
+    "vintage": 2014,
+    "style": "white",
+    "quality_score": 86.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Cantina Monti Marlborough Selection 68",
+    "producer": "Cantina Monti",
+    "label_text_norm": "cantina monti marlborough wairau 2019",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Merlot",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2019,
+    "style": "red",
+    "quality_score": 88.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Marlborough Selection 69",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina marlborough wairau 2011",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Syrah",
+      "Riesling"
+    ],
+    "vintage": 2011,
+    "style": "rose",
+    "quality_score": 93.8,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Kellerei Blau Marlborough Selection 70",
+    "producer": "Kellerei Blau",
+    "label_text_norm": "kellerei blau marlborough wairau 2022",
+    "country": "New Zealand",
+    "region": "Marlborough",
+    "subregion": "Wairau",
+    "appellation": "GI",
+    "grapes": [
+      "Sauvignon Blanc",
+      "Carmenere",
+      "Nebbiolo"
+    ],
+    "vintage": 2022,
+    "style": "white",
+    "quality_score": 82.7,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Maison Or Mosel Selection 71",
+    "producer": "Maison Or",
+    "label_text_norm": "maison or mosel bernkastel 2000",
+    "country": "Germany",
+    "region": "Mosel",
+    "subregion": "Bernkastel",
+    "appellation": "QmP",
+    "grapes": [
+      "Tempranillo",
+      "Nebbiolo",
+      "Sauvignon Blanc"
+    ],
+    "vintage": 2000,
+    "style": "sparkling",
+    "quality_score": 91.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Domaine Clair California Selection 72",
+    "producer": "Domaine Clair",
+    "label_text_norm": "domaine clair california napa valley 2002",
+    "country": "USA",
+    "region": "California",
+    "subregion": "Napa Valley",
+    "appellation": "AVA",
+    "grapes": [
+      "Riesling",
+      "Cabernet Sauvignon"
+    ],
+    "vintage": 2002,
+    "style": "rose",
+    "quality_score": 80.9,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Casablanca Selection 73",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol casablanca valle central 2011",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Chardonnay"
+    ],
+    "vintage": 2011,
+    "style": "white",
+    "quality_score": 84.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Barossa Selection 74",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde barossa eden valley 2010",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Chardonnay"
+    ],
+    "vintage": 2010,
+    "style": "red",
+    "quality_score": 95.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Tenuta Aurora Douro Selection 75",
+    "producer": "Tenuta Aurora",
+    "label_text_norm": "tenuta aurora douro cima corgo 2007",
+    "country": "Portugal",
+    "region": "Douro",
+    "subregion": "Cima Corgo",
+    "appellation": "DOC",
+    "grapes": [
+      "Sangiovese",
+      "Pinot Noir"
+    ],
+    "vintage": 2007,
+    "style": "sparkling",
+    "quality_score": 92.3,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Maison Or Casablanca Selection 76",
+    "producer": "Maison Or",
+    "label_text_norm": "maison or casablanca valle central 2011",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Tempranillo",
+      "Nebbiolo"
+    ],
+    "vintage": 2011,
+    "style": "white",
+    "quality_score": 87.2,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Weingut Morgen Casablanca Selection 77",
+    "producer": "Weingut Morgen",
+    "label_text_norm": "weingut morgen casablanca valle central 2017",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Merlot",
+      "Sauvignon Blanc",
+      "Carmenere"
+    ],
+    "vintage": 2017,
+    "style": "sparkling",
+    "quality_score": 88.1,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Finca Neblina Casablanca Selection 78",
+    "producer": "Finca Neblina",
+    "label_text_norm": "finca neblina casablanca valle central 2011",
+    "country": "Chile",
+    "region": "Casablanca",
+    "subregion": "Valle Central",
+    "appellation": "DO",
+    "grapes": [
+      "Malbec"
+    ],
+    "vintage": 2011,
+    "style": "red",
+    "quality_score": 80.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Bodega Sol Barossa Selection 79",
+    "producer": "Bodega Sol",
+    "label_text_norm": "bodega sol barossa eden valley 2004",
+    "country": "Australia",
+    "region": "Barossa",
+    "subregion": "Eden Valley",
+    "appellation": "GI",
+    "grapes": [
+      "Chardonnay",
+      "Pinot Noir"
+    ],
+    "vintage": 2004,
+    "style": "red",
+    "quality_score": 86.6,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  },
+  {
+    "canonical_name": "Casa Verde Mendoza Selection 80",
+    "producer": "Casa Verde",
+    "label_text_norm": "casa verde mendoza uco valley 2013",
+    "country": "Argentina",
+    "region": "Mendoza",
+    "subregion": "Uco Valley",
+    "appellation": "IG",
+    "grapes": [
+      "Nebbiolo",
+      "Cabernet Sauvignon"
+    ],
+    "vintage": 2013,
+    "style": "rose",
+    "quality_score": 78.4,
+    "sources": {
+      "type": "synthetic"
+    },
+    "image_url": null
+  }
+]
